@@ -31,6 +31,7 @@ A community-driven list of known extensions and resources for the Karoo cycling 
   - [Wattramp](#wattramp)
   - [CupRoute](#CupRoute)
   - [KPedal](#KPedal)
+  - [karoo-camera-control](#karoo-camera-control)
 - [Libraries](#libraries)
   - [ktor-client-karoo](#ktor-client-karoo)
 - [Resources](#resources)
@@ -285,6 +286,16 @@ To update extensions after you have installed them, long-tap the app icon on the
     - KPedal provides cyclists with real-time feedback on pedaling technique during rides
     - Data fields on Karoo ride screens
     - Companion app for training drills, ride history, analytics, and achievement tracking
+
+## karoo-camera-control
+- **Extension Name:** [karoo-camera-control](https://github.com/michalchecinski/karoo-camera-control)
+  - Description: Control sport action cams from Karoo
+  - License: Open Source, Apache 2
+  - Features:
+    - Connect and manage multiple cameras
+    - Capture footage and monitor recording time via Karoo
+    - Change camera modes (Video, Photo, Timelapse) and presets
+    - View information about your action cam
 
 ## Libraries
 
